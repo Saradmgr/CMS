@@ -1,12 +1,13 @@
-A Simple CRUD operation mini project using JAVA using
-Add User
+A Simple CRUD operation mini project using JAVA using<br>
+Add User<br>
 ![alt text](images/add.png)
-
-Delete User
+<br>
+Delete User<br>
 ![alt text](images/delete.png)
-
-Edit User
+<br>
+Edit User<br>
 ![alt text](images/edit.png)
-
-Search User
+<br>
+Search User<br>
 ![alt text](images/search.png)
+<br>
