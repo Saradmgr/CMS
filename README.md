@@ -1,4 +1,4 @@
-A Simple CRUD operation mini project using JAVA using<br>
+A Simple CRUD operation mini project using JAVA <br>
 Add User<br>
 ![alt text](images/add.png)
 <br>
